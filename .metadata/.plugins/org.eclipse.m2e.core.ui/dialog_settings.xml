@@ -50,6 +50,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="task-15"/>
 			<item value="dd2"/>
 			<item value="dd1"/>
 			<item value="dd"/>
